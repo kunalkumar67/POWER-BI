@@ -4,7 +4,7 @@
 
 ## 🎯 About This Project
 
-This repository showcases professional **Power BI** dashboards and reports created by transforming and visualizing data from Excel files. Leveraging Power BI's powerful analytics tools, I've created comprehensive dashboards that enable data-driven decision-making through intuitive graphs, charts, filters, and pivot tables. xxx
+This repository showcases professional **Power BI** dashboards and reports created by transforming and visualizing data from Excel files. Leveraging Power BI's powerful analytics tools, I've created comprehensive dashboards that enable data-driven decision-making through intuitive graphs, charts, filters, and pivot tables.
 
 ---
 
