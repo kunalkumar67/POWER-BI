@@ -1,6 +1,6 @@
 # 📊 Power BI Dashboard Portfolio
 
-> Transform raw data into actionable insights with interactive visualizations xoxoxo
+> Transform raw data into actionable insights with interactive visualizations 
 
 ## 🎯 About This Project
 
